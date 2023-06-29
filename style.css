@@ -1,0 +1,26 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.button{
+    padding: 30px;
+    margin: 8px 4px;
+    border: 2px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: bisque;
+}
+.ok{
+    padding: 30px 25px;
+}
+.k{
+    padding: 30px 75px;
+}
+.input{
+    width: 327px;
+    height: 80px;
+    border: 2px solid black;
+    font-size: 34px;
+    background-color: bisque;
+    padding-top: 3px;
+}

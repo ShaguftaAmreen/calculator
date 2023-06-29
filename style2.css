@@ -1,0 +1,15 @@
+
+.bg-red{
+
+    text-align: center;display: flex;
+    justify-content: center;
+}
+.container{
+    height: 84vh;
+    width: 390px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
